@@ -1,0 +1,6 @@
+build/
+*.o
+*.d
+*.lst
+.DS_Store
+flash.log
